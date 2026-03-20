@@ -4,7 +4,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/QiZishi/OWID-System)](https://github.com/QiZishi/OWID-System)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[**English**](README.md) | [**中文***](README_zh.md)
 
 > 🔗 GitHub仓库：<https://github.com/QiZishi/OWID-System>
 
