@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"g:\\\\Conclusion\\\\a就业\\\\a_个人简历\\\\简历撰写\\\\my_project\\\\repconvnest\\\\aOilSystemweb\\\\训练日志\"*)"
+    ]
+  }
+}
